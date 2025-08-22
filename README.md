@@ -1,9 +1,25 @@
-# CS250
-How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
-I interpret user needs by focusing on their goals and identifying the features that will provide the most value. Creating user stories helps transform those needs into actionable development tasks. During the SNHU Travel project, user stories guided the creation of features like the trip search and booking process. Each story clarified what the user wanted and why, helping the team build targeted solutions that met real expectations.
+CS 250: Software Development Lifecycle
+Project Overview
 
-How do I approach developing programs? What Agile processes do I hope to incorporate into my future development work?
-I approach development iteratively by focusing on building core features first and improving them over time based on feedback. Through this course, I’ve seen how Agile processes like sprint planning, daily standups, retrospectives, and backlog refinement help teams stay organized and adaptable. One key takeaway was learning to shift priorities mid-sprint when stakeholders requested new features. I plan to carry these Agile practices into future work to stay flexible, efficient, and user-focused.
+This project focused on applying Agile principles to software development through the SNHU Travel project. The goal was to interpret user needs, translate them into actionable features, and deliver functional software iteratively. Key features included trip search and booking functionality, all guided by well-defined user stories to ensure alignment with real user expectations.
 
-What does it mean to be a good team member in software development?
-Being a good team member means communicating effectively, taking responsibility, and supporting others to meet shared goals. In this project, I filled multiple roles—developer, tester, and Scrum Master—and learned how each role contributes to team success. Good teammates are adaptable, stay engaged during planning and reviews, and offer constructive feedback during retrospectives. Most importantly, they collaborate to overcome challenges and keep the project moving forward.
+Reflection
+
+Interpreting User Needs
+I focused on understanding user goals and identifying features that provide the most value. Creating user stories helped transform those needs into actionable development tasks, clarifying what the user wanted and why. This approach ensured that the team built solutions that met real expectations.
+
+Development Approach
+I approached development iteratively, prioritizing core features first and refining them based on feedback. Agile practices such as sprint planning, daily standups, retrospectives, and backlog refinement were essential for staying organized and adaptable. This experience reinforced the importance of adjusting priorities mid-sprint to respond to stakeholder requests.
+
+Teamwork and Collaboration
+Being an effective team member meant communicating clearly, taking responsibility, and supporting others to meet shared goals. I assumed multiple roles—developer, tester, and Scrum Master—and learned how each role contributes to overall team success. Effective teammates are adaptable, engaged, and collaborative, providing constructive feedback and helping the team overcome challenges.
+
+Key Takeaways
+
+Translating user needs into actionable tasks through user stories
+
+Iterative development using Agile practices
+
+Effective communication and collaboration in a team environment
+
+Adapting to changing priorities while maintaining project focus
